@@ -1,0 +1,80 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.whl
+*.log
+*.sqlite3
+*.db
+*.egg-info/
+.eggs/
+*.env
+*.venv
+*.virtualenv
+Pipfile
+Pipfile.lock
+poetry.lock
+*.mypy_cache/
+*.pytest_cache/
+.coverage
+*.coverage.*
+.cache
+.tox/
+*.spec
+*.bak
+*.temp
+*.tmp
+
+# Machine learning specific
+# Large files from common ML libraries
+checkpoint/
+checkpoints/
+*.ckpt
+*.h5
+*.pb
+*.pt
+*.onnx
+*.joblib
+*.pkl
+*.model
+*.mlmodel
+*.dat
+
+# TensorFlow/Torch specific
+logs/
+*.tfevents
+event*
+graph.pbtxt
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code specific
+.vscode/
+*.code-workspace
