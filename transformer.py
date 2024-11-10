@@ -218,7 +218,7 @@ def build_transformer(seq_length, num_layers, d_model, num_heads, dff,
                            num_heads=num_heads, dff=dff,
                            vocab_size=target_vocab_size,
                            dropout_rate=dropout_rate)(inputs, encoder)
-  logits = tf.keras.layers.Dense(target_vocab_size)
+  logits = tf.keras.layers.Dense(target_vocab_size)(decoder)
   return keras.models.Model(inputs=inputs, outputs=logits)
   
 
