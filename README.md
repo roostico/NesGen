@@ -22,7 +22,7 @@ Here's some useful links:
 | all_ids_maestro_train.txt     | https://drive.google.com/file/d/1IQToXD9s8g4L-AlK-MY4qvGoLZ-p7bMw/view?usp=drive_link | 1.19 GB |
 | all_ids_maestro_valid.txt     | https://drive.google.com/file/d/1DWjViUKpW07LfbGimlhhhGdK7oQaJpj-/view?usp=drive_link | 545 MB  |
 | all_ids_maestro_test.txt      | https://drive.google.com/file/d/1ow5MhMc_Lm3EdZSmH9BYUJfDELtMQGQl/view?usp=drive_link | 272 MB  |
-| all_ids_nes_train             |                                                                                       |         |
+| all_ids_nes_train.txt         | https://drive.google.com/file/d/1iVwuKKT2sIezyVIDB9STL--FYZf0XcxF/view?usp=drive_link | 122 MB  |
 | all_ids_nes_valid.txt         | https://drive.google.com/file/d/1FoOC3x4GbdDe0fwlzE1Zs8fqZXyFQCIA/view?usp=drive_link | 57 MB   |
 | NESGEN_maestro_100generations | https://drive.google.com/file/d/1ToDyVJRTVaxmYSfiGPmC-KnkI57M6i76/view?usp=drive_link | 57 KB   |
 
