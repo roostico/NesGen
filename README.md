@@ -24,6 +24,8 @@ Here's some useful links:
 | all_ids_maestro_test.txt      | https://drive.google.com/file/d/1ow5MhMc_Lm3EdZSmH9BYUJfDELtMQGQl/view?usp=drive_link | 272 MB  |
 | all_ids_nes_train.txt         | https://drive.google.com/file/d/1iVwuKKT2sIezyVIDB9STL--FYZf0XcxF/view?usp=drive_link | 122 MB  |
 | all_ids_nes_valid.txt         | https://drive.google.com/file/d/1FoOC3x4GbdDe0fwlzE1Zs8fqZXyFQCIA/view?usp=drive_link | 57 MB   |
+| all_ids_gan_train.txt         | https://drive.google.com/file/d/1VU4ngttqwACFEtnv7l6B8xG2Z1eS3GWZ/view?usp=drive_link | 1.6 GB  |
+| all_ids_gan_valid.txt         | https://drive.google.com/file/d/1c8hgL4J2BVS4_XXuZNlkuTRYEHduZTdy/view?usp=drive_link | 104 MB  |
 | NESGEN_maestro_100generations | https://drive.google.com/file/d/1ToDyVJRTVaxmYSfiGPmC-KnkI57M6i76/view?usp=drive_link | 57 KB   |
 
 To download these files inside a Colab notebook you can simply use the `gdown` command like this:
