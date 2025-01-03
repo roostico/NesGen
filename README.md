@@ -7,6 +7,11 @@ Transformer approach:
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+GAN approach:
+<a target="_blank" href="https://colab.research.google.com/github/roostico/NesGen/blob/main/NESGEN-GAN.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Useful links
 
 Here's some useful links:
