@@ -8,9 +8,15 @@
 [![Language][python-shield]][python-url]
 [![Apache License][license-shield]][license-url]
 
-
+---
 
 Training of IA models to generate music in MIDI format, resembling old NES videogames sountracks. 
+
+Project for Deep Learning course a.y. 2023-2024.
+
+## Available code
+
+In this repository we present two possible approaches for generating MIDI music, each with its own Jupyter Notebook.
 
 Transformer approach:
 <a target="_blank" href="https://colab.research.google.com/github/roostico/NesGen/blob/main/NESGEN_Transformer.ipynb">
