@@ -1,4 +1,13 @@
-# NesGen
+<p align="center"><img width=60% src="resources/img/logo.png"></p>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Language][python-shield]][python-url]
+[![Apache License][license-shield]][license-url]
+
+
 
 Training of IA models to generate music in MIDI format, resembling old NES videogames sountracks. 
 
@@ -39,3 +48,17 @@ To download these files inside a Colab notebook you can simply use the `gdown` c
 # For example, the NESGEN_Maestro15.zip file. Simply replace the ID with the part of Google Drive URL after 'd/' until '/view'
 !gdown 1qoTIkmhmj0z4854FFofz02KLk5DnyqB1
 ```
+
+<!--
+***
+    GITHUB SHIELDS VARIABLES
+***
+-->
+
+[python-shield]: https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54
+
+[python-url]: https://www.python.org/
+
+[license-shield]: https://img.shields.io/github/license/roostico/NesGen.svg?style=flat
+
+[license-url]: https://github.com/roostico/NesGen/blob/master/LICENSE
