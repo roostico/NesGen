@@ -14,6 +14,14 @@ Training of IA models to generate music in MIDI format, resembling old NES video
 
 Project for Deep Learning course a.y. 2023-2024.
 
+## Team:
+
+👨‍💻 Valerio Di Zio - valerio.dizio@studio.unibo.it
+
+👨‍💻 Francesco Magnani - francesco.magnani14@studio.unibo.it
+
+👨‍💻 Luca Rubboli - luca.rubboli2@studio.unibo.it
+
 ## Available code
 
 In this repository we present two possible approaches for generating MIDI music, each with its own Jupyter Notebook.
